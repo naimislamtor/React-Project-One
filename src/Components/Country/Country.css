@@ -1,0 +1,10 @@
+.Country{
+    margin: 10px;
+    padding: 20px;
+    border: 2px dotted blue;
+    border-radius: 10px;
+}
+
+.Visited{
+    border: 2px solid yellow;
+}
